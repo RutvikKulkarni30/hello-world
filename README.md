@@ -14,3 +14,5 @@ Commit Steps:
 1. Stage the change(s)
 2. add a message and commit the change(s)
 3. push the commit to github
+
+Testing staging
